@@ -1,0 +1,25 @@
+#marqueeStyle {
+    width="100%";
+    background-color: green;
+    color: white;
+    margin-top: -30px;
+}
+
+.Krisha {
+    width: 100px;
+}
+
+#line {
+    background-color: darkgray;
+    height: 1px;
+    position: fixed;
+}
+
+body {
+    text-align: center;
+}
+
+#details {
+    color: gray;
+    font-weight: 100;
+}
